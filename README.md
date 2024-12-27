@@ -24,55 +24,55 @@ Sou apaixonado por tecnologia e me especializando no desenvolvimento de aplicaç
 ### 🌐 **Front-end**
 <div style="display: flex; justify-content: flex-start; flex-wrap: wrap;">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/html5.svg" alt="HTML5" width="70" style="margin: 10px; border-radius: 10px; box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/html5.svg" alt="HTML5" width="50" style="margin: 10px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);" />
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/css3.svg" alt="CSS3" width="70" style="margin: 10px; border-radius: 10px; box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/css3.svg" alt="CSS3" width="50" style="margin: 10px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);" />
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg" alt="JavaScript" width="70" style="margin: 10px; border-radius: 10px; box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg" alt="JavaScript" width="50" style="margin: 10px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);" />
   </a>
   <a href="https://vuejs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/vue-dot-js.svg" alt="Vue.js" width="70" style="margin: 10px; border-radius: 10px; box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/vue-dot-js.svg" alt="Vue.js" width="50" style="margin: 10px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);" />
   </a>
   <a href="https://vuetifyjs.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/vuetify.svg" alt="Vuetify" width="70" style="margin: 10px; border-radius: 10px; box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/vuetify.svg" alt="Vuetify" width="50" style="margin: 10px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);" />
   </a>
   <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/bootstrap.svg" alt="Bootstrap" width="70" style="margin: 10px; border-radius: 10px; box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/bootstrap.svg" alt="Bootstrap" width="50" style="margin: 10px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);" />
   </a>
 </div>
 
 ### ⚙️ **Back-end**
 <div style="display: flex; justify-content: flex-start; flex-wrap: wrap;">
   <a href="https://www.php.net/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/php.svg" alt="PHP" width="70" style="margin: 10px; border-radius: 10px; box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/php.svg" alt="PHP" width="50" style="margin: 10px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);" />
   </a>
   <a href="https://laravel.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/laravel.svg" alt="Laravel" width="70" style="margin: 10px; border-radius: 10px; box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/laravel.svg" alt="Laravel" width="50" style="margin: 10px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);" />
   </a>
 </div>
 
 ### 💾 **Banco de Dados**
 <div style="display: flex; justify-content: flex-start; flex-wrap: wrap;">
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mysql.svg" alt="MySQL" width="70" style="margin: 10px; border-radius: 10px; box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mysql.svg" alt="MySQL" width="50" style="margin: 10px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);" />
   </a>
   <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/postgresql.svg" alt="PostgreSQL" width="70" style="margin: 10px; border-radius: 10px; box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/postgresql.svg" alt="PostgreSQL" width="50" style="margin: 10px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);" />
   </a>
 </div>
 
 ### 🛠️ **Ferramentas e Tecnologias**
 <div style="display: flex; justify-content: flex-start; flex-wrap: wrap;">
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/docker.svg" alt="Docker" width="70" style="margin: 10px; border-radius: 10px; box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/docker.svg" alt="Docker" width="50" style="margin: 10px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);" />
   </a>
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/git.svg" alt="Git" width="70" style="margin: 10px; border-radius: 10px; box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/git.svg" alt="Git" width="50" style="margin: 10px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);" />
   </a>
   <a href="https://nodejs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/node-dot-js.svg" alt="Node.js" width="70" style="margin: 10px; border-radius: 10px; box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/node-dot-js.svg" alt="Node.js" width="50" style="margin: 10px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);" />
   </a>
 </div>
 
