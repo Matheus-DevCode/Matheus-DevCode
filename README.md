@@ -1,9 +1,5 @@
 # Matheus Gonçalves Pereira Silva
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder-image.png" alt="Matheus Gonçalves - Desenvolvedor Full Stack" />
-</p>
-
 **`Desenvolvedor Web Full Stack | Apaixonado por Tecnologia`**
 
 Sou apaixonado por tecnologia e me especializando no desenvolvimento de aplicações web utilizando tecnologias modernas para criar soluções eficientes e inovadoras. Atualmente, estou cursando o 3º período da faculdade de Análise e Desenvolvimento de Sistemas.
