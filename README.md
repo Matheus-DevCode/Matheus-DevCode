@@ -72,8 +72,5 @@ Sou apaixonado por tecnologia e me especializando no desenvolvimento de aplicaç
 <a href="mailto:matheus.devcode19@gmail.com">
   <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="E-mail" width="50" />
 </a>
-<a href="https://github.com/Matheus-DevCode">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" width="50" />
-</a>
 
 Sinta-se à vontade para explorar meus repositórios e colaborar comigo em projetos desafiadores!
