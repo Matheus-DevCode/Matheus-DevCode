@@ -49,12 +49,10 @@ Sou apaixonado por tecnologia e me especializando no desenvolvimento de aplicaç
 ### [HidraCalc](https://github.com/Matheus-DevCode/HidraCalc)
 - **Descrição**: Um aplicativo para cálculo de hidratação personalizado.
 - **Destaques**: Arquitetura em POO, responsividade, integração eficiente.
-- ![HidraCalc](https://user-images.githubusercontent.com/12345678/12345678-xyz.png)
 
 ### [Bot de Notificação Automatizada](https://github.com/Matheus-DevCode/BotNotificacoes)
 - **Descrição**: Bot para envio automático de mensagens via Telegram e e-mail.
 - **Destaques**: Automação de processos, integração com sistemas legados.
-- ![BotNotificacoes](https://user-images.githubusercontent.com/12345678/98765432-abc.png)
 
 ---
 
@@ -71,6 +69,7 @@ Sou apaixonado por tecnologia e me especializando no desenvolvimento de aplicaç
 
 <a href="mailto:matheus.devcode19@gmail.com">
   <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="E-mail" width="50" />
+  <p>matheus.devcode19@gmail.com</p>
 </a>
 
 Sinta-se à vontade para explorar meus repositórios e colaborar comigo em projetos desafiadores!
